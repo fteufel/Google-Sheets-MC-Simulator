@@ -6,7 +6,7 @@ This script draws MC simulations from a google sheet. Variables are set up as ra
 The script recalculates the sheet, thereby drawing new random numbers, and collects the results of specified cells.
 
 || A        | B           | C  |
-|| ------------- |:-------------:| -----:|
+|----| ------------- |:-------------:| -------:|
 |1| 14.34323      | 123.3423 | 1245.3 |
 |2| 12.34432  |       |    |
 |3| Cells to evaluate |      |   |
